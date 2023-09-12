@@ -1,0 +1,26 @@
+/* h2{
+    color: brown;
+}
+td{
+    text-align: justify;
+}
+table{
+background-color: brown;
+border:"0";
+width: 900px;
+
+
+}*/
+tr{
+    background-color: rgb(202, 199, 196);
+    
+}  
+/* div{
+    background-image: url('photo1.jpeg');
+} */
+li{
+   text-decoration:white;
+}
+img{
+    border-radius :"50%";
+}
